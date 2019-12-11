@@ -1,4 +1,5 @@
-﻿#ifdef _IS_CLIPPING_MODE
+//https://github.com/FancyBearGuy
+#ifdef _IS_CLIPPING_MODE
             uniform sampler2D _ClippingMask; uniform float4 _ClippingMask_ST;
             uniform float _Clipping_Level;
             uniform fixed _Inverse_Clipping;
