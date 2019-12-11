@@ -115,7 +115,6 @@
                 float3 tangentDir : TEXCOORD3;
                 float3 bitangentDir : TEXCOORD4;
 
-                //EmissiveScroll
                 float phase : TEXCOORD5;
 
                 LIGHTING_COORDS(6,7)
