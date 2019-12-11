@@ -1,4 +1,4 @@
-﻿//
+﻿//https://github.com/FancyBearGuy
 Shader "Various/Fancy_Toonshader" {
     Properties {
         [Enum(OFF,0,FRONT,1,BACK,2)] _CullMode("Culling Mode", int) = 2  //OFF/FRONT/BACK
