@@ -1,4 +1,5 @@
-﻿            uniform float4 _LightColor0;
+//https://github.com/FancyBearGuy
+            uniform float4 _LightColor0;
             uniform float4 _BaseColor;
             uniform float4 _Color;
             uniform sampler2D _MainTex; uniform float4 _MainTex_ST;
