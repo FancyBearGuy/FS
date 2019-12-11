@@ -1,4 +1,5 @@
-﻿            uniform sampler2D _MainTex; uniform float4 _MainTex_ST;
+//https://github.com/FancyBearGuy
+	    uniform sampler2D _MainTex; uniform float4 _MainTex_ST;
             uniform float4 _BaseColor;
             uniform float4 _Color;
             uniform fixed _Use_BaseAs1st;
